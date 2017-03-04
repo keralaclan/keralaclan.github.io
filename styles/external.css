@@ -8,7 +8,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
-    opacity: 0.8;
+    opacity: 1;
     filter:yellow(opacity=50);
 }
 #background {
@@ -21,7 +21,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
-    opacity: 0.7;
+    opacity: .8;
     filter:yellow(opacity=50);
 }
 
@@ -53,4 +53,55 @@
     text-align: center;
     position: relative;
     z-index: 99;
+}
+
+/* Site Countdown Part
+=====================================================================*/
+.countdown{
+    color: #fff;
+    margin: 40px auto 10px;
+    width: 70%;
+}
+.countdown_row{
+    display: block;
+    margin-left: 5px;
+    overflow: hidden;
+    width: 100%;
+}
+.countdown_section{
+    background: none repeat scroll 0 0 transparent;
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    display: block;
+    float: left;
+    font-size: 25px;
+    margin: 15px 30px auto;
+    padding: 30px 12px;
+    text-align: center;
+    width: 140px;
+}
+.countdown_amount{
+    font-size: 25px;
+    font-weight: 800;
+}
+p {text-align:left;
+color:black;
+font-family: 'Gloria Hallelujah', cursive;
+font-size:23px;}
+body{background-color:lightgrey;}
+ #header{text-align:left;
+color:white;
+font-family:'Pridi', serif;
+}
+body{background-color:lightgrey;}
+.well.well-lg{
+  background-image: url("http://www.texturex.com/albums/Metal-Textures/dark%20brushed%20metal%20texture%20steel%20black%20stock%20photo%20scratch%20wallpaper.jpg");
+  height:100%;
+  width:100%;
+   
+}
+  
+#launch {
+font-family: 'Gloria Hallelujah', cursive;
+color:black;
 }
