@@ -1,0 +1,56 @@
+#background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://clashofclans.com/uploaded-images/Share.png?mtime=20151117063807');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:yellow(opacity=50);
+}
+#background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://clashofclans.com/uploaded-images/Share.png?mtime=20151117063807');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.7;
+    filter:yellow(opacity=50);
+}
+
+
+.navbar{   
+     background-image: url("http://www.psdgraphics.com/file/dark-wood-texture.jpg");
+}
+.nav.navbar-nav.navbar-right1 li a:hover {
+ color: red;
+}
+.nav.navbar-nav.navbar-right li a{
+ color: white;
+}
+#navon1 {color: #f1f1f1;}
+#navon1 a:hover{color:yellow;}
+
+#navon2 li a{color: #f1f1f1; font-weight: bold; font-size: 15px; font-family: "proza";}
+#navon2 li a:hover {color:yellow;}
+
+.topmenu_container {
+    background-image: url(http://static.iclanwebsites.com/themes/theme_155/h6qm_topmenu.png);
+}
+    
+.topmenu_container {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0px 0px 3px 0px;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}
